@@ -1,7 +1,7 @@
 # clusterability-index
 The algorithms based on the two mathematical programming models (Aref and Neal 2021) for computing the exact value of k-clusterability index and clusterability index of a signed network
 
-These algorithms are written in Python 3.7 based on the two graph optimization models discussed in Aref and Neal (2021).
+These algorithms are written in Python 3.8 based on the two graph optimization models discussed in Aref and Neal (2021).
 
 Binary linear programming models for partitioning signed graphs based on generalized balance theory and computing the exact values of k-clusterability index and clusterability index - Jupyter code written by Samin Aref in 2019
 
