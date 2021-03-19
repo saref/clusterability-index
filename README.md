@@ -7,19 +7,17 @@ Binary linear programming models for partitioning signed graphs based on general
 
 Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Using this code for non-commercial purposes is permitted to all given that the two following publications are cited:
+Using this code for non-commercial purposes is permitted to all given that the following publication is cited:
 
-1. Aref, S, Mason, AJ, Wilson, MC. A modeling and computational study of the frustration index in signed networks. Networks. 2020; 75: 95– 110. url: https://doi.org/10.1002/net.21907
-
-2. Aref, S., and Neal, Z., Frustrated legislators: Using generalized balance to identify splinter coalitions in the US Congress by optimally partitioning signed networks. ArXiv (2021).
+Aref, S., and Neal, Z.P., "Identifying splinter coalitions in the US House of Representatives by optimally partitioning signed networks based on generalized balance" (2021).
 
 Related datasets:
 
-Neal, Z., Figshare research data repository (2021). (under embargo until publication of the paper)
+Neal, Z.P. and Aref, S., "Frustrated Legislators: Replication data and code" Figshare research data repository (2021).
 
 The following steps outline the process for installing the required software on your computer to be able to run the code:
 
-1-Download and install Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/products/individual. Note that you must select your operating system first and download the corresponding installer.
+1-Download and install Anaconda (Python 3.8 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/products/individual. Note that you must select your operating system first and download the corresponding installer.
 
 2-Register for an account on https://pages.gurobi.com/registration to get a free academic license for using Gurobi. Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with a recognized degree-granting academic institution. This involves creating an account on Gurobi website to be able to request a free academic license in step 5.
 
