@@ -13,7 +13,7 @@ Aref, S., and Neal, Z.P., "Identifying splinter coalitions in the US House of Re
 
 Related datasets:
 
-Neal, Z.P. and Aref, S., "Frustrated Legislators: Replication data and code" Figshare research data repository (2021).
+Neal, Z.P. and Aref, S., "Frustrated Legislators: Replication data and code" Figshare research data repository (2021). https://doi.org/10.17605/OSF.IO/3QTFB
 
 The following steps outline the process for installing the required software on your computer to be able to run the code:
 
