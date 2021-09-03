@@ -1,5 +1,5 @@
 # clusterability-index
-The algorithms based on the two mathematical programming models (Aref and Neal 2021) for computing the exact value of k-clusterability index and clusterability index of a signed network
+The graph partitioning algorithms based on the two mathematical programming models (Aref and Neal 2021) for optimally partitioning signed networks based on generalized balance and computing the exact values of k-clusterability index and clusterability index.
 
 These algorithms are written in Python 3.8 based on the two graph optimization models discussed in Aref and Neal (2021).
 
@@ -9,7 +9,7 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the following publication is cited:
 
-Aref, S., and Neal, Z.P., "Identifying hidden coalitions in the US House of Representatives by optimally partitioning signed networks based on generalized balance" (2021).
+Aref, S., and Neal, Z.P., "Identifying hidden coalitions in the US House of Representatives by optimally partitioning signed networks based on generalized balance" (2021) Scientific Reports.
 
 Related datasets:
 
