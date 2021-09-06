@@ -9,7 +9,7 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the following publication is cited:
 
-Aref, S., and Neal, Z.P., "Identifying hidden coalitions in the US House of Representatives by optimally partitioning signed networks based on generalized balance" (2021) Scientific Reports.
+Aref, S., and Neal, Z.P., "Identifying hidden coalitions in the US House of Representatives by optimally partitioning signed networks based on generalized balance" (2021) Scientific Reports. http://dx.doi.org/10.1038/s41598-021-98139-w
 
 Related datasets:
 
